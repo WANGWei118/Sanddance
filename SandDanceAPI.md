@@ -145,7 +145,7 @@ class Viewer{
   public getColumnStats(column:Column):ColumnStats;
   
   /**
-  * 获取当前信号值: 一个interface，包含三个布尔值
+  * 获取当前信号值: 一个interface
   * SignalValues:https://sanddance.js.org/docs/sanddance/v2/api/types.html#signalvalues
   * interface SpecContext {
     specColumns: SpecColumns;
